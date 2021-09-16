@@ -1,2 +1,2 @@
 # demo1
-code demo
+code demo for git learning basics 
